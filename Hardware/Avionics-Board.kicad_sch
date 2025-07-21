@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "3ba02776-4382-4bc8-b9dd-d2d4bc91f867")
 	(paper "A4")
+	(title_block
+		(title "VikramSat Avionics Board")
+		(date "17 July 2025")
+		(rev "v0.1")
+		(company "Astralis")
+	)
 	(lib_symbols
 		(symbol "BMP390:BMP390"
 			(pin_names
