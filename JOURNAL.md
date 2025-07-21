@@ -4,7 +4,7 @@
 
 # Day-1 (17/07/2025)
 
-This was the day I started this project. Feeling excited, I started with the block diagram. I was cofused thinking about the processor/OBC for the avionics board. At first, I thought of using some STM processor from the STM-F and STM-H series. At the same time I believed in the simplicity of using Raspberry Pi RP2040/2354. But they were not powerful for processing images and heandling telemetry at the same time. I liked the Raspberry Pi 5 module, but I could not use it as it was big. Then I got and idea of using Raspberry Pi CM5 a smaller version of Raspberry Pi 5. Finaly I chose Raspberry Pi CM5. I also explored various projects like the [PhoenixSat](), [ORCAsat](orcasat.ca) and the CubeSat of [Build a CubeSat](youtube.com/@buildacubesat). Here is the block diagram I prepared.
+This was the day I started this project. Feeling excited, I started with the block diagram. I was cofused thinking about the processor/OBC for the avionics board. At first, I thought of using some STM processor from the STM-F and STM-H series. At the same time I believed in the simplicity of using Raspberry Pi RP2040/2354. But they were not powerful for processing images and heandling telemetry at the same time. I liked the Raspberry Pi 5 module, but I could not use it as it was big. Then I got and idea of using Raspberry Pi CM5 a smaller version of Raspberry Pi 5. Finaly I chose Raspberry Pi CM5. I also explored various projects like the [PhoenixSat](https://phxcubesat.asu.edu/), [ORCAsat](orcasat.ca) and the CubeSat of [Build a CubeSat](youtube.com/@buildacubesat). Here is the block diagram I prepared.
 
 ![Block Diagram](https://github.com/user-attachments/assets/e4fa207e-1590-411f-93fb-bd6694553057)
 
