@@ -69,4 +69,4 @@
 
 # Sorry, but this repository is going to be reset by August 3, 2025.
 
-I have decided to choose RP2350 as the new onboard processor and I am going to make the OBC. I will make this board so as to receive grant from [Hackclub](https://www.grounded.hackclub.com). Therefore, I would we using EasyEDA as the new cad software. I will reset this repository and start a new journey for grounded or silicon by hackclub. All the old commits would we preserved. Thanks!
+I have decided to choose RP2350 as the new onboard processor and I am going to make the OBC. I will make this board so as to receive grant from [Hackclub](https://grounded.hackclub.com). Therefore, I would we using EasyEDA as the new cad software. I will reset this repository and start a new journey for grounded or silicon by hackclub. All the old commits would we preserved. Thanks!
