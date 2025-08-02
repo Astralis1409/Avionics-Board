@@ -64,3 +64,9 @@
   # Day-5 (28/07/2025)
 
   First of all sorry for not working on the avionics board actively. Actualy [keyaan-07](https://www.github.com/keyaan-07) and I are working on an STM32H757IIT6 Dev board for hack club silicon. I came to know that I would not be able to use the Raspberry Pi CM-5 because of its heavy power consumption (12.5W at peak). Yep! that's too high. Therefore, I came up with an idea of making an STM32H757IIT6 Dev board so as I can learn about the STM32 processors, be familiar with the STM2 boards and gain some experience. I know I made a blunder but nevermind it's my first time making something huge. I will update about the dev board in next commit and this board is currently on hold. Sorry for the inconvenience. Btw [keyaan-07](https://www.github.com/keyaan-07) suggested me a kicad plugin (python) that converts the EasyEDA symbols and footprints to KiCad symbols and footprints even the 3D models! you can check out that repository [here](https://github.com/uPesy/easyeda2kicad.py).
+
+---
+
+# Sorry, but this repository is going to be reset by August 3, 2025.
+
+I have decided to choose RP2350 as the new onboard processor and I am going to make the OBC. I will make this board so as to receive grant from [Hackclub](grounded.hackclub.com). Therefore, I would we using EasyEDA as the new cad software. I will reset this repository and start a new journey for grounded or silicon by hackclub. All the old commits would we preserved. Thanks!
