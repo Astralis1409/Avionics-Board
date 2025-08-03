@@ -22,17 +22,11 @@ I have finally choosen [RPi RP2350](https://raspberrypi.com/products/RP2350) aft
 
 I have a prepared a block diagram. Check it out - 
 
-<h1 align='center'>
-  <img alt='Block diagram' src='./images/Avionics-block-diagram.svg' />
-</h1>
-
+![Block diagram](./images/Avionics-block-diagram.svg)
 
 This the schematic I've prepared for today- 
 
-
-<h1 align='center'>
-  <img alt='Day-1 schematic' src='./images/day-1-schematic.svg' />
-</h1>
+![Block diagram](./images/Day-1-schematic.svg)
 
 ### Tasks completed today:
 
